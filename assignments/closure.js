@@ -1,6 +1,15 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+// function market() {
+//   console.log(`Good evening shoppers, we have a great deal for you!`);
+//   const sale = " T-bone steaks on sale for $1.99 a pound.";
 
+//   function shopper() {
+//     console.log(`Honey, did you hear? ${sale}`)
+//   }
+//   shopper();
+// } 
+// market();
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
